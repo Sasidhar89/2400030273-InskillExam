@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #f4f8ff;
+  color: #222;
+  transition: all 0.3s ease-in-out;
+}
+
+button {
+  background: #4a90e2;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #357ABD;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 200px;
+  margin: 6px;
+}
